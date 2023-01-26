@@ -1,0 +1,21 @@
+{
+  "name": "system_calls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishaankaushik91/System_Calls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishaankaushik91/System_Calls/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/ishaankaushik91/System_Calls#readme"
+}
